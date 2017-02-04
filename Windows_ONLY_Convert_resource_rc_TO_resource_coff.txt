@@ -1,0 +1,6 @@
+Use windres.exe (MinGW) 
+! windres.exe has be in PATH
+
+in cmd:
+cd C:\Users\hambu\workspace\SimpleCT\Resource
+windres.exe -i resource.rc -o resource.coff -I C:\wxWidgets-2.8.12\include
