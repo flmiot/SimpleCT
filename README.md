@@ -1,5 +1,5 @@
 # SimpleCT
-A simple gui interface for custom tomography setups with the PYHWE 09058-50 X-ray-device and Arduino Leonardo. 
+A simple gui for custom tomography setups with the PYHWE 09058-50 X-ray-device and Arduino Leonardo. 
 
 ## Purpose
 - control PHYWE 09058-50 X-ray-device (Voltage, Current, Readout)
