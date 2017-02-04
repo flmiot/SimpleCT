@@ -1,5 +1,5 @@
 # SimpleCT
-A simple GUI for custom 1st generation tomography setups with the PYHWE 09058-50 X-ray-device and Arduino Leonardo. 
+Work in progress. A simple GUI for custom 1st generation tomography setups with the PYHWE 09058-50 X-ray-device and Arduino Leonardo. 
 
 ## Purpose
 - control PHYWE 09058-50 X-ray-device (Voltage, Current, Readout)
