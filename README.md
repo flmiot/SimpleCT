@@ -10,4 +10,4 @@ Work in progress. A simple GUI for custom 1st generation tomography setups with 
 ## Third party components
 - the wxWidgets framework. Used for almost anything gui related. 
 - the CImg-Library by David Tschumperle et al. 
-- the boost-libraries Smart Ptr and Asio 
+- the boost-libraries Smart Ptr, Format and Asio 
